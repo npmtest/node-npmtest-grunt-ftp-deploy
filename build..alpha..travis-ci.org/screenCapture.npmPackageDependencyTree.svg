@@ -1,0 +1,83 @@
+<svg height="1278" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1278" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">12 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ grunt-ftp-deploy@0.1.10 </tspan>
+<tspan x="10" y="90">  ├── async@0.9.2 </tspan>
+<tspan x="10" y="106">  ├─┬ grunt@0.4.5 </tspan>
+<tspan x="10" y="122">  │ ├── async@0.1.22 </tspan>
+<tspan x="10" y="138">  │ ├── coffee-script@1.3.3 </tspan>
+<tspan x="10" y="154">  │ ├── colors@0.6.2 </tspan>
+<tspan x="10" y="170">  │ ├── dateformat@1.0.2-1.2.3 </tspan>
+<tspan x="10" y="186">  │ ├── eventemitter2@0.4.14 </tspan>
+<tspan x="10" y="202">  │ ├── exit@0.1.2 </tspan>
+<tspan x="10" y="218">  │ ├─┬ findup-sync@0.1.3 </tspan>
+<tspan x="10" y="234">  │ │ └─┬ glob@3.2.11 </tspan>
+<tspan x="10" y="250">  │ │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="266">  │ │   └── minimatch@0.3.0 </tspan>
+<tspan x="10" y="282">  │ ├── getobject@0.1.0 </tspan>
+<tspan x="10" y="298">  │ ├─┬ glob@3.1.21 </tspan>
+<tspan x="10" y="314">  │ │ ├── graceful-fs@1.2.3 </tspan>
+<tspan x="10" y="330">  │ │ └── inherits@1.0.2 </tspan>
+<tspan x="10" y="346">  │ ├─┬ grunt-legacy-log@0.1.3 </tspan>
+<tspan x="10" y="362">  │ │ ├─┬ grunt-legacy-log-utils@0.1.1 </tspan>
+<tspan x="10" y="378">  │ │ │ └── underscore.string@2.3.3 </tspan>
+<tspan x="10" y="394">  │ │ └── underscore.string@2.3.3 </tspan>
+<tspan x="10" y="410">  │ ├─┬ grunt-legacy-util@0.2.0 </tspan>
+<tspan x="10" y="426">  │ │ ├── async@0.1.22 </tspan>
+<tspan x="10" y="442">  │ │ └── lodash@0.9.2 </tspan>
+<tspan x="10" y="458">  │ ├── hooker@0.2.3 </tspan>
+<tspan x="10" y="474">  │ ├── iconv-lite@0.2.11 </tspan>
+<tspan x="10" y="490">  │ ├─┬ js-yaml@2.0.5 </tspan>
+<tspan x="10" y="506">  │ │ ├─┬ argparse@0.1.16 </tspan>
+<tspan x="10" y="522">  │ │ │ ├── underscore@1.7.0 </tspan>
+<tspan x="10" y="538">  │ │ │ └── underscore.string@2.4.0 </tspan>
+<tspan x="10" y="554">  │ │ └── esprima@1.0.4 </tspan>
+<tspan x="10" y="570">  │ ├── lodash@0.9.2 </tspan>
+<tspan x="10" y="586">  │ ├─┬ minimatch@0.2.14 </tspan>
+<tspan x="10" y="602">  │ │ ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="618">  │ │ └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="634">  │ ├─┬ nopt@1.0.10 </tspan>
+<tspan x="10" y="650">  │ │ └── abbrev@1.1.0 </tspan>
+<tspan x="10" y="666">  │ ├── rimraf@2.2.8 </tspan>
+<tspan x="10" y="682">  │ ├── underscore.string@2.2.1 </tspan>
+<tspan x="10" y="698">  │ └── which@1.0.9 </tspan>
+<tspan x="10" y="714">  ├─┬ jsftp@1.5.5 </tspan>
+<tspan x="10" y="730">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="746">  │ │ └── ms@0.7.3 </tspan>
+<tspan x="10" y="762">  │ ├─┬ ftp-response-parser@1.0.1 </tspan>
+<tspan x="10" y="778">  │ │ └─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="794">  │ │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="810">  │ │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="826">  │ │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="842">  │ ├─┬ once@1.4.0 </tspan>
+<tspan x="10" y="858">  │ │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="874">  │ ├── parse-listing@1.1.3 </tspan>
+<tspan x="10" y="890">  │ ├─┬ stream-combiner@0.2.2 </tspan>
+<tspan x="10" y="906">  │ │ ├── duplexer@0.1.1 </tspan>
+<tspan x="10" y="922">  │ │ └── through@2.3.8 </tspan>
+<tspan x="10" y="938">  │ └── unorm@1.4.1 </tspan>
+<tspan x="10" y="954">  ├── lodash@2.4.2 </tspan>
+<tspan x="10" y="970">  └─┬ prompt@0.2.14 </tspan>
+<tspan x="10" y="986">    ├── pkginfo@0.4.0 </tspan>
+<tspan x="10" y="1002">    ├─┬ read@1.0.7 </tspan>
+<tspan x="10" y="1018">    │ └── mute-stream@0.0.7 </tspan>
+<tspan x="10" y="1034">    ├── revalidator@0.1.8 </tspan>
+<tspan x="10" y="1050">    ├─┬ utile@0.2.1 </tspan>
+<tspan x="10" y="1066">    │ ├── async@0.2.10 </tspan>
+<tspan x="10" y="1082">    │ ├── deep-equal@1.0.1 </tspan>
+<tspan x="10" y="1098">    │ ├── i@0.3.5 </tspan>
+<tspan x="10" y="1114">    │ ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="1130">    │ │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="1146">    │ └── ncp@0.4.2 </tspan>
+<tspan x="10" y="1162">    └─┬ winston@0.8.3 </tspan>
+<tspan x="10" y="1178">      ├── async@0.2.10 </tspan>
+<tspan x="10" y="1194">      ├── cycle@1.0.3 </tspan>
+<tspan x="10" y="1210">      ├── eyes@0.1.8 </tspan>
+<tspan x="10" y="1226">      ├── isstream@0.1.2 </tspan>
+<tspan x="10" y="1242">      ├── pkginfo@0.3.1 </tspan>
+<tspan x="10" y="1258">      └── stack-trace@0.0.9</tspan>
+</text>
+</svg>
